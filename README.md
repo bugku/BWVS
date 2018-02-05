@@ -10,7 +10,7 @@ Web漏洞渗透测试靶场
 3.修改\bug\conn.php里的mysql配置
 
 4.需要开启
-
 allow_url_include = On
 allow_url_fopen = On
+
 注意： 请勿在生产环境搭建.
